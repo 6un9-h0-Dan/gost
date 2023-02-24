@@ -42,8 +42,8 @@ require (
 	github.com/templexxx/xor v0.0.0-20181023030647-4e92f724b73b // indirect
 	github.com/tjfoc/gmsm v1.0.1 // indirect
 	github.com/xtaci/tcpraw v1.2.25
-	golang.org/x/crypto v0.0.0-20200221231518-2aa609cf4a9d
-	golang.org/x/net v0.0.0-20190923162816-aa69164e4478
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	gopkg.in/gorilla/websocket.v1 v1.4.0
 	gopkg.in/xtaci/kcp-go.v4 v4.3.2
 	gopkg.in/xtaci/smux.v1 v1.0.7
